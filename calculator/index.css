@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    margin-top: 60px;
+}
+input{
+    margin-right: 380px;
+    padding-bottom: 15px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+input{
+    border-radius: 40px;
+    border: 5px solid #244624;
+    font-size:34px;
+    height: 65px;
+    width: 400px;
+    margin-left: 380px;
+    text-align: center;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: #978fa0;
+    width: 90px;
+    height: 60px;
+    margin: 6px;
+}
+
+
+
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
